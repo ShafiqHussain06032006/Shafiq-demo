@@ -1,2 +1,3 @@
 # Shafiq-demo
-This is my first respose
+This is my first repository.
+Author->Shafiq Hussain
